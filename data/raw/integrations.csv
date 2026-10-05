@@ -1,0 +1,7 @@
+integration_id,integration_name,integration_category,plan_availability
+INT_001,Salesforce,CRM,Business+
+INT_002,HubSpot,CRM,Growth+
+INT_003,Slack,Collaboration,Starter+
+INT_004,Google Sheets,Productivity,Starter+
+INT_005,Microsoft Teams,Collaboration,Growth+
+INT_006,Zendesk,Support,Business+

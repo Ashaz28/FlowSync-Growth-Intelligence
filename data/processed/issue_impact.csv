@@ -1,0 +1,7 @@
+issue_category,tickets,affected_accounts,open_tickets,high_urgent,active_mrr_exposure,affected_active_accounts,avg_exposure_per_active_account
+Workflow Failure,1278,794,24,504,12281453.0000,547,22452.3821
+UI / Usability,917,663,11,248,11059551.0000,449,24631.5167
+Billing,768,559,12,208,9409610.0000,390,24127.2051
+AI Assistant,714,538,13,211,8849629.0000,371,23853.4474
+User Management,613,477,12,172,8209674.0000,326,25183.0491
+Salesforce Sync,500,181,21,177,5013850.0000,150,33425.6667

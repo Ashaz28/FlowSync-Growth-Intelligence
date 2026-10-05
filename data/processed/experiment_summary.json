@@ -1,0 +1,18 @@
+{
+  "control_n": 385,
+  "variant_n": 429,
+  "control_activated": 88,
+  "variant_activated": 155,
+  "control_rate_pct": 22.86,
+  "variant_rate_pct": 36.13,
+  "absolute_lift_pp": 13.27,
+  "relative_lift_pct": 58.07,
+  "p_value_two_sided": 3.6e-05,
+  "ci95_difference_pp": [
+    7.09,
+    19.46
+  ],
+  "statistically_significant_5pct": true,
+  "test": "two-sided two-proportion z-test; Wald confidence interval",
+  "caution": "Simulated randomized assignment and synthetic outcomes; illustrative, not proof of real-world uplift."
+}

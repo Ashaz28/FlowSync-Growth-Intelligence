@@ -1,0 +1,31 @@
+{
+  "snapshot": "2026-08-31",
+  "source": "Synthetic scenario only",
+  "accounts": 3000,
+  "users": 14963,
+  "events": 289792,
+  "support_tickets": 4790,
+  "feedback": 2417,
+  "active_paid_accounts": 897,
+  "mrr_inr": 16654103.0,
+  "arr_run_rate_inr": 199849236.0,
+  "paid_ever": 1097,
+  "seven_day_activation_rate_pct": 28.03,
+  "data_quality": {
+    "accounts_unique_id": true,
+    "users_unique_id": true,
+    "subscriptions_unique_id": true,
+    "product_events_unique_id": true,
+    "support_tickets_unique_id": true,
+    "customer_feedback_unique_id": true,
+    "ai_usage_unique_id": true,
+    "integrations_unique_id": true,
+    "users_all_accounts_exist": true,
+    "events_all_users_exist": true,
+    "events_user_account_match": true,
+    "support_all_accounts_exist": true,
+    "events_within_snapshot": true,
+    "ai_usage_account_exists": true,
+    "success_not_before_integration": true
+  }
+}

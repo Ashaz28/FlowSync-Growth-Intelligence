@@ -1,0 +1,6 @@
+current_plan,ai_accounts,requests,successful_requests,total_cost_inr,task_success_pct,cost_per_ai_account_inr
+Business,130,32454,27057,22972.6100,83.3703,176.7124
+Enterprise,73,27038,22778,19161.5500,84.2444,262.4870
+Growth,127,15163,12786,10956.9900,84.3237,86.2755
+Not active,86,13420,11284,9456.7800,84.0835,109.9626
+Starter,64,3100,2632,2178.9100,84.9032,34.0455
